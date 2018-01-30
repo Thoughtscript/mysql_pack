@@ -14,7 +14,7 @@ Using Node: `8.8.0`
 {
 	//...
 	"dependencies": {
-		"mongo_pack": "git+https://github.com/Thoughtscript/mysql_pack.git"
+		"mysql_pack": "git+https://github.com/Thoughtscript/mysql_pack.git"
 	},
 	/...
 }
